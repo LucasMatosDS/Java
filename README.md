@@ -1,2 +1,2 @@
 # Sistemas-Java
-Projetos Desenvolvidos em JAVA.
+Sistemas em JAVA voltado para comércio.
