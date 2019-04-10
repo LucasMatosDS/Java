@@ -1,0 +1,8 @@
+create database viacep;
+use viacep;
+
+create table cep(
+idcep bigint auto_increment,
+cep int not null,
+datac varchar(50) not null,
+primary key(idcep));
