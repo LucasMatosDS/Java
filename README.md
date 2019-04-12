@@ -1,2 +1,2 @@
 # Sistemas-Java
-Sistemas em JAVA voltado para comércio.
+Sistemas Desenvolvidos utilizando a API Swing.
