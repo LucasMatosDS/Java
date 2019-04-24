@@ -1,2 +1,2 @@
 # Sistemas-Java
-Sistemas Desenvolvidos utilizando a API Swing.
+Sistemas Desenvolvidos em java utilizando a API Swing.
